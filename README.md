@@ -9,7 +9,7 @@ I’m a passionate computer science and finance student with a keen interest in 
 ### HUNNYPOT
 Designed lightweight honeypots using LXC containers to capture over 200 attacks per day.
 Built a performance and log analysis system to parse thousands of log files and generate extensive reports.
-Reverse-engineered malware with Ghidra to analyze attacker behavior and improve anomaly detection systems.
+Reverse-engineered malware with Ghidra to analyze attacker behavior and implemented anomaly detection systems.
 
 ## Experience
 __Software Engineer Intern @ CATT Lab__: Developed scalable microservices for real-time traffic analysis. <br/>
@@ -18,5 +18,5 @@ __Machine Learning Intern @ CATT Lab__: Trained CNN models to classify incident 
 
 ## Let's Connect
 📧 [arinavolu@gmail.com](mailto:arinavolu@gmail.com) <br/>
-💼 [LinkedIn](www.linkedin.com/in/abhinav-inavolu) <br/>
-📂 [Portfolio](abhinavinavolu.github.io)
+💼 [LinkedIn](https://www.linkedin.com/in/abhinav-inavolu) <br/>
+📂 [Portfolio](https://www.abhinavinavolu.github.io)
