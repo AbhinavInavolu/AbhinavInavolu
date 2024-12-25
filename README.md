@@ -19,4 +19,4 @@ __Machine Learning Intern @ CATT Lab__: Trained CNN models to classify incident 
 ## Let's Connect
 📧 [arinavolu@gmail.com](mailto:arinavolu@gmail.com) <br/>
 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-inavolu) <br/>
-📂 [Portfolio](https://www.abhinavinavolu.github.io)
+📂 [Portfolio](http://www.abhinavinavolu.github.io)
